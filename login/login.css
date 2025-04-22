@@ -186,7 +186,7 @@ cursor:pointer;
   transition:.4s linear();
 } 
 .header .shopping-cart .box{
-  border:0px solid blue;
+  border:0px solid navy;
   display:flex;
   align-items:center;
   gap:1rem;
