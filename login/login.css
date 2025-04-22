@@ -399,7 +399,7 @@ cursor:pointer;
     width:30rem;
     box-shadow:var(--box-shadow);
     border-radius:.5rem;
-    background: #fff;
+    background: lightgray;
   }
   .header .navbar a{
     font-size:2rem;
