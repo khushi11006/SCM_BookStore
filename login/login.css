@@ -23,11 +23,13 @@
 
 }
 
-html{
-  font-size:62.5%;
-  overflow-x:hidden;
-  scroll-behavior: smooth;
-  scroll-padding-top: 7rem;
+html {
+  font-size: 62.5%;
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  scroll-behavior: smooth; 
+  scroll-padding-top: 7rem; 
+  height: 100%; 
 }
 
 body{
