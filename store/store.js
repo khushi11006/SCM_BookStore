@@ -155,7 +155,7 @@ const books = [
     "id": "20",
     "name": "Five Survive",
     "author": "Jackson, Holly",
-    "price": 799.00,
+    "price": 999.00,
     "summary": "Red Kenny sets off on a road trip for spring break with five friends. But someone in her group has a secret.",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTajNvaaIpXrxvmThurPueImB1fncgwXA4pMVu9Cyu-LCVDZIMMm_d-1jzsLPi8WqxTU7DfuTvlF82c8VQemqX1tzrlrIdz4wAFaahSjLA&usqp=CAE"
   },
@@ -163,7 +163,7 @@ const books = [
     "id": "21",
     "name": "One By One",
     "author": "Ruth Ware's",
-    "price": 799.00,
+    "price": 899.00,
     "summary": "One by One by Freida McFadden is the nineth book I've read by her. While I enjoyed One by One, it wasn't my favorite read by Freida. The twist at the end wasn't as spectacular as some of the others have been. ",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRTUfYKf4dxjjSHGYfHQ4klpdo5gFMjRqKDv2yUHqs7okABQX2q6GJzn6hJCW_llWvrCOfgrwkoMwVKp3-CYem31h13lT15j_Vi4ECsC9qkzP-r2r4Yguug&usqp=CAE"
   }
