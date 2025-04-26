@@ -3,7 +3,7 @@ const books = [
     "id": "1",
     "name": "The Girl who know to much ",
     "author": "Vikrant Khanna",
-    "price": 1249.00,
+    "price": 1250.00,
     "summary": "The girl who knew too much is the story of Akshara, a 13 year old girl, who is devastated with her mother's death and leads a life of solitude ",
     "image_url": "https://m.media-amazon.com/images/I/71fHcsKPnXL._SY522_.jpg"
   },
@@ -11,7 +11,7 @@ const books = [
     "id": "2",
     "name": "The Story of tata",
     "author": "Peter Casey",
-    "price": 1550.00,
+    "price": 1560.00,
     "summary": "In 1868, Jamsetji Tata, a visionary of his time, lit the flame that went on to become Tata and its group of companies.",
     "image_url": "https://m.media-amazon.com/images/I/71nzPNcotWL._SY522_.jpg"
   },
@@ -19,7 +19,7 @@ const books = [
     "id": "3",
     "name": "I May Be Wrong",
     "author": "Björn Natthiko Lindeblad",
-    "price": 1899.00,
+    "price": 1800.00,
     "summary": "I’ve often wondered what it’s like to get 'the call’ - the desire to drop everything and take up a spiritual vocation.",
     "image_url": "https://m.media-amazon.com/images/I/71ATQkTtUrL._SY522_.jpg"
   },
