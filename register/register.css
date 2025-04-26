@@ -27,7 +27,7 @@ html{
 }
 
 body{
-  background:darkseagreen;
+  background:white;
   display:flex;
   justify-content: center;
   align-items: center;
@@ -52,7 +52,7 @@ section{
 
 .heading span{
    background: var(--green);
-   color:#fff;
+   color:aqua;
    display:inline-block;
    padding:1.5rem 3rem;
    clip-path:polygon(100% 0 , 93% 50% , 100% 99%, 0% 100%, 7% 50%, 0% 0%);
