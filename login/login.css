@@ -16,14 +16,20 @@
   border:none;
   text-decoration: none;
   text-transform: capitalize;
-  transition: all .2s linear;
+  transition: color 0.2s linear, background-color 0.2s linear;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-size: 16px;
+
 }
 
-html{
-  font-size:62.5%;
-  overflow-x:hidden;
-  scroll-behavior: smooth;
-  scroll-padding-top: 7rem;
+html {
+  font-size: 62.5%;
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  scroll-behavior: smooth; 
+  scroll-padding-top: 7rem; 
+  height: 100%; 
 }
 
 body{
@@ -36,10 +42,14 @@ body{
   background-size: cover;
   background-position: center;
 
+
 }
 
 section{
   padding:2rem 9%;
+  margin: 1rem 0; 
+  width: 100%; 
+  max-width: 1200px;
 }
 
 .heading{
@@ -48,6 +58,8 @@ section{
   padding-bottom:3rem;
   font-size:3.5rem;
   color:var(--black);
+  font-weight: bold; 
+  line-height: 1.2; 
 }
 
 .heading span{
@@ -288,12 +300,20 @@ cursor:pointer;
   top: 50%;
   left: 5px;
   transform: translateY(-50%);
-  font-size: 1em;
+  font-size: 1rem;
   color: #162938;
   font-weight: 500;
   pointer-events: none;
-  transition: .5s;
+  transition: color 0.3s ease, font-size 0.3s ease, transform 0.3s ease;
 }
+
+.input-box input:focus ~ label,
+.input-box input:valid ~ label {
+  top: 10px;
+  font-size: 0.8rem;
+  color: #0e1f2c;
+}
+
 
 .input-box input:focus~label,
 .input-box input:valid~label {
