@@ -35,7 +35,7 @@ const books = [
     "id": "5",
     "name": "Twisted Lies",
     "author": "Ana Huang",
-    "price": 850.00,
+    "price": 880.00,
     "summary": "A dark high school RH bully romance that contains triggers for sensitive readers.",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSBMvf8URiv0b38L-63pQPMwzi7WX74CBVcSTjpy2iGIh5pX6AQSieoNQnSX8iThLGFDy7px1B9Ysaiej7WwvfUL0ksRna0TFa-kpwEADD7B48JB82xACo&usqp=CAE"
   },
@@ -51,7 +51,7 @@ const books = [
     "id": "7",
     "name": "Only love is real",
     "author": "Brian L.",
-    "price": 349.00,
+    "price": 350.00,
     "summary": "He portrays two strangers, Elizabeth and Pedro, who are unaware that they have been lovers throughout the long centuries -- until fate brings them together again.  ",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8UbE8oZaczdO2U2KpT7JfLGGnyQt15daLE5DU47hK8upxyTQLQzD0NDqv4GWOF09S_BdnlWJWSgs6ObgD_pmNHaNF1a29ErTSqwxBeLnMLklgLk9GiSvLsA&usqp=CAE"
   },
@@ -59,7 +59,7 @@ const books = [
     "id": "8",
     "name": "A deadly education",
     "author": " Naomi Novik's",
-    "price": 399.00,
+    "price": 400.00,
     "summary": "A Deadly Education is set at Scholomance, a school for the magically gifted where failure means certain death (for real)—until one girl, El, begins to unlock its many secrets.",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTo_7lw706lPuG3J_OL0aihtskEpl2nDHG2W6JAA3FyoBuoWZbpdxmBB4GxHAEUKvx2w-oovZOBqrQRjh_G8yT_nccKhDvF8X9do6762gxdGcYBlSTaCd0Ig&usqp=CAE"
   },
@@ -67,7 +67,7 @@ const books = [
     "id": "9",
     "name": "Your Fault",
     "author": "Mercedes Ron",
-    "price": 499.0,
+    "price": 599.0,
     "summary":"This suspenseful YA series untangles the threads of love, trauma, and secrets, perfect for fans of Ugly Love and After. ",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUx_qYVH1tk31_tjaYZkSoSj2DVfBoz2BjhRewr06GurXd8ctUIll5Ph7j_XZFbAMUHhvnBW_Wa2D0DNe3V9KGIcddGKvwFBqmCWLbZrI&usqp=CAE"
   },
@@ -75,7 +75,7 @@ const books = [
     "id": "10",
     "name": "Love or Obsession",
     "author": "Hiah Mehta",
-    "price": 599.00,
+    "price": 569.00,
     "summary": "Damon Stanton, an angel in a devils body, young, flirty, bachelor, shining in his prime time of his company, yet lonely having no one to share his love and thoughts with.",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCA3leNhDs-N12cI-wdPu-r6WlF3kXIEXhl3UyDg57ftl7rpEJr6MrSk2SqNbtKpaGngJxpVKIxfINz3iMhczszGTdd0LcB1vln6Gqoyw&usqp=CAE"
   },
