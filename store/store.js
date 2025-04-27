@@ -33,11 +33,11 @@ const books = [
   },
   {
     "id": "5",
-    "name": "Twisted Lies",
-    "author": "Ana Huang",
+    "name": "When I am with you",
+    "author": "Durjoy Datta",
     "price": 880.00,
-    "summary": "A dark high school RH bully romance that contains triggers for sensitive readers.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSBMvf8URiv0b38L-63pQPMwzi7WX74CBVcSTjpy2iGIh5pX6AQSieoNQnSX8iThLGFDy7px1B9Ysaiej7WwvfUL0ksRna0TFa-kpwEADD7B48JB82xACo&usqp=CAE"
+    "summary": "Aishwarya, at twenty-eight years, would rather be a single mother than trust the 'normal' family structure. In her new start-up, she wants to revolutionize childcare for young woman professionals-this is her ultimate goal. Plus, she's in a hurry to do it all.",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCYRp9OPKTZ-rbOc5H60MjqMGm-N8CpkzVHjZbVTuBKntboCwflMruH7OPK7NVBJxkqaGM96-AOrL9BDxpP1v1GkU7tgUW6YPce55QqbtSMZjU3vzVByoc"
   },
   {
     "id": "6",
