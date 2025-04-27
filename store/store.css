@@ -57,7 +57,7 @@
 
 .btn:hover{
   background: var(--green);
-  color:black;
+  color:#121212;
 }
 
 .header{
