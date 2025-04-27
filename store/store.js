@@ -57,11 +57,11 @@ const books = [
   },
   {
     "id": "8",
-    "name": "A deadly education",
-    "author": " Naomi Novik's",
+    "name": "I to hade a Love Story",
+    "author": "Ravinder singh",
     "price": 400.00,
-    "summary": "A Deadly Education is set at Scholomance, a school for the magically gifted where failure means certain death (for real)—until one girl, El, begins to unlock its many secrets.",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTo_7lw706lPuG3J_OL0aihtskEpl2nDHG2W6JAA3FyoBuoWZbpdxmBB4GxHAEUKvx2w-oovZOBqrQRjh_G8yT_nccKhDvF8X9do6762gxdGcYBlSTaCd0Ig&usqp=CAE"
+    "summary": "The story revolves around the protagonist, Ravin, who is working in IT and is looking for a life partner. He signs up on a matrimonial website and meets a girl named Khushi. They start chatting and soon fall deeply in love, despite never having met in person.",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUXHJIJMxx3_Sb7yp5eV3TVZw7mwPeNX0lpYuwW4KNbtngfYwov0S9QY6s_GN3QwGBWIBfZJG7Jg29CKisdyYOQgI0cncuwMlPHmsWtP_LjttJ4iAUYTpEpw"
   },
   {
     "id": "9",
