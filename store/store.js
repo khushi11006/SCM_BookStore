@@ -65,11 +65,11 @@ const books = [
   },
   {
     "id": "9",
-    "name": "Your Fault",
-    "author": "Mercedes Ron",
+    "name": "The Power of Subconsious Mind",
+    "author": "Dr Joseph Murphy",
     "price": 599.0,
-    "summary":"This suspenseful YA series untangles the threads of love, trauma, and secrets, perfect for fans of Ugly Love and After. ",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUx_qYVH1tk31_tjaYZkSoSj2DVfBoz2BjhRewr06GurXd8ctUIll5Ph7j_XZFbAMUHhvnBW_Wa2D0DNe3V9KGIcddGKvwFBqmCWLbZrI&usqp=CAE"
+    "summary":"The Power of Your Subconscious Mind, by Joseph Murphy, is a self-help book that explores how the subconscious mind influences our lives and how we can harness its power for positive change ",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC32YWYfpvEMGJeLYoE61-wJYzVQy6AAx0JVERYjoLf79D-bvg0lCH-3Aq4JOjwD7vsjmdn-KyhvuqiaOgWBlqsYWOCDN4Eg"
   },
   {
     "id": "10",
