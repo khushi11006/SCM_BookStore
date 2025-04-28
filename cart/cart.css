@@ -39,7 +39,7 @@
   align-items:center;
   justify-content: space-between;
   padding:2rem 9%;
-  background:rgba(255, 228, 196, 0.71);
+  background:#fff;
   box-shadow:var(--box-shadow)
 }
 
@@ -223,7 +223,7 @@
 
 
 .footer{
-  background:rgba(255, 228, 196, 0.714);
+  background:#fff;
   padding: 12px 90px;
   width: 100%;
   bottom: 0;
