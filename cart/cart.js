@@ -93,7 +93,7 @@ function showCartContent() {
       window.location.href = "/store/store.html";
     })
 
-    cartEmptyContent.textContent = "Oops No Item Found !!";
+    cartEmptyContent.textContent = "Oops your cart is empty!";
     shopNowButton.textContent = "Shop now";
 
     cartEmptyContent.classList.add("cart-empty-text");
