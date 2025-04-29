@@ -273,10 +273,10 @@
   font-size:2rem;
   color:var(--black);
   margin-left:.2rem;
-  background:cadetblue;
+  background: #eee;
   text-align: center;
 }
 .footer .box-container .box .share a:hover{
   background: var(--green);
-  color:darksalmon;
+  color: #fff;
 }
