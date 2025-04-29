@@ -83,6 +83,7 @@ cursor:pointer;
 .btn:hover{
   background: var(--green);
   color:white;
+  transition: 0.3s ease-in-out;
 }
 
 .header{
