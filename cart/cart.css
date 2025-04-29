@@ -26,7 +26,7 @@
  }
 
  body{
-  background-color:rgba(100, 121, 121, 0.481);
+  background-color:#eee;
 } 
 
 .header{
@@ -273,10 +273,10 @@
   font-size:2rem;
   color:var(--black);
   margin-left:.2rem;
-  background: #eee;
+  background:cadetblue;
   text-align: center;
 }
 .footer .box-container .box .share a:hover{
   background: var(--green);
-  color: #fff;
+  color:darksalmon;
 }
