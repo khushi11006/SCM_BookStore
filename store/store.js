@@ -73,11 +73,11 @@ const books = [
   },
   {
     "id": "10",
-    "name": "Love or Obsession",
-    "author": "Hiah Mehta",
+    "name": "To good to be True",
+    "author": "Prajakta Koli",
     "price": 569.00,
-    "summary": "Damon Stanton, an angel in a devils body, young, flirty, bachelor, shining in his prime time of his company, yet lonely having no one to share his love and thoughts with.",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCA3leNhDs-N12cI-wdPu-r6WlF3kXIEXhl3UyDg57ftl7rpEJr6MrSk2SqNbtKpaGngJxpVKIxfINz3iMhczszGTdd0LcB1vln6Gqoyw&usqp=CAE"
+    "summary": "Too Good to Be True by Prajakta Koli tells the story of Avani, a bookstore employee who lives in a world of romance novels. Her life takes a turn when she meets Aman, a man who seems to embody everything she craves in a relationship, leading her to question if he is truly too good to be true",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtIiRqOzGeb7HYeO-JMnoSvBcxaaKP-bNucYzx95vC6k5SdBgn62wgbVqmhM57sPqk0tnaUXDtH-cLX8CIHiz1_v1qrkturYnIQm764oPeI7vr2bYjDrv4ZQ"
   },
   {
     "id": "11",
