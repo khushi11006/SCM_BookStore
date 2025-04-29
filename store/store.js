@@ -76,7 +76,7 @@ const books = [
     "name": "To good to be True",
     "author": "Prajakta Koli",
     "price": 569.00,
-    "summary": "Too Good to Be True by Prajakta Koli tells the story of Avani, a bookstore employee who lives in a world of romance novels. Her life takes a turn when she meets Aman, a man who seems to embody everything she craves in a relationship, leading her to question if he is truly too good to be true",
+    "summary": "Too Good to Be True by Prajakta Koli tells the story of Avani, a bookstore employee who lives in a world of romance novels.",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtIiRqOzGeb7HYeO-JMnoSvBcxaaKP-bNucYzx95vC6k5SdBgn62wgbVqmhM57sPqk0tnaUXDtH-cLX8CIHiz1_v1qrkturYnIQm764oPeI7vr2bYjDrv4ZQ"
   },
   {
@@ -148,7 +148,7 @@ const books = [
     "name": "Being a Journey",
     "author": "Pankaj Gupta",
     "price": 799.00,
-    "summary": " Being: A Journey by Pankaj Gupta is a self-help book that guides readers on a path of self-discovery and personal growth. It's not just a traditional guide, but a collection of chapters designed as immersive workshops, offering practical insights, introspection, and transformative practices. ",
+    "summary": " Being: A Journey by Pankaj Gupta is a self-help book that guides readers on a path of self-discovery and personal growth. ",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdDTHiWbIll1TXeL6DcN-ahVguz9T7z-86JvTFvDXMHLrc2IzVAWHmCOfQ_Qb1O3HdqZrS98nJhYMNf5gZKt0EWYdacLSr"
   },
   {
