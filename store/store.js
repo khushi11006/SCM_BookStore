@@ -145,11 +145,11 @@ const books = [
   },
   {
     "id": "19",
-    "name": "A Murderous Plot",
-    "author": "Sue Mixin",
+    "name": "Being a Journey",
+    "author": "Pankaj Gupta",
     "price": 799.00,
-    "summary": "When an amnesiac man covered in blood mysteriously appears in the woods during her morning run, retired amateur sleuth, Jen, promises to stay away from the case. ",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTPUuZWrfJ7kfC5srgDuff3gYS2yVodKKCLrbyZRhUkXaiQoFc56SyWwZIQovOV-AF1AL66muOkmMR6HMc_SwpXB7K6Vi1HNr7Ylm0uq2I&usqp=CAE"
+    "summary": " Being: A Journey by Pankaj Gupta is a self-help book that guides readers on a path of self-discovery and personal growth. It's not just a traditional guide, but a collection of chapters designed as immersive workshops, offering practical insights, introspection, and transformative practices. ",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdDTHiWbIll1TXeL6DcN-ahVguz9T7z-86JvTFvDXMHLrc2IzVAWHmCOfQ_Qb1O3HdqZrS98nJhYMNf5gZKt0EWYdacLSr"
   },
   {
     "id": "20",
