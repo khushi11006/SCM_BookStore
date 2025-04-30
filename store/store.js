@@ -25,11 +25,11 @@ const books = [
   },
   {
     "id": "4",
-    "name": "It Ends With Us ",
-    "author": "Colleen Hoover",
+    "name": "all that we never were",
+    "author": "Alice Kellen",
     "price": 1499.00,
-    "summary": "It Ends with Us is a book that follows a girl named Lily who has just moved and is ready to start her life after college",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-K1dxwe7fTOnowuIpcN-FkuryIsPXeAwmTws7WeZtqID8jcCK7LqNR65AhfBMgtSwZL1hWwrpsKG9tMuX8ETMZ7KynT4sODp_8QunmUw&usqp=CAE"
+    "summary": "All That We Never Were is an intimate, moving tale that sweeps you away to small-town Australia and into the life of Leah Jones, a nineteen-year-old girl who, after suddenly losing her parents in a tragic car accident.",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQOj645pl5odT-K2r-D4eC7d5Tp3Kt8DES2YnZopZelfa__b0gSPd_y3shMzDKnvRSXsqvJ_N4lL7s1kShH1nOwu-EkOCHLTw"
   },
   {
     "id": "5",
