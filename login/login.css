@@ -44,7 +44,7 @@ body{
   background-position: center;
   max-width: 1200px;
   width: 90%;
-
+  place-items: center;
 
 }
 
