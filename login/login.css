@@ -34,7 +34,7 @@ html {
 }
 
 body{
-  background:lightgrey;
+  background-color:lightgrey;
   display:flex;
   justify-content: center;
   align-items: center;
