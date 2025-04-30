@@ -69,8 +69,10 @@ color:var(--black);
 cursor:pointer;
 }
 .btn:hover{
-  background: var(--green);
-  color:white;
+   background: linear-gradient(135deg, var(--green), #4CAF50);  /* Add gradient for depth */
+  color: rgb(23, 86, 67);
+  transform: scale(1.10);  /* Slightly scale up for emphasis */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 .header{
@@ -259,7 +261,7 @@ cursor:pointer;
   right: 0;
   width: 45px;
   height: 45px;
-  background: #162938;
+  background: #16381f;
   font-size: 2em;
   color:#fff;
   display: flex;
