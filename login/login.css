@@ -117,7 +117,7 @@ cursor:pointer;
 .header .navbar a
 {
   font-size:1.7rem;
-  margin:0 1rem;
+  margin:0 2rem;
   color:var(--black);
 }
 .header .navbar a:hover{
