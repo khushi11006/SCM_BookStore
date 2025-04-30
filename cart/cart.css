@@ -26,7 +26,7 @@
  }
 
  body{
-  background-color: #eee;
+  background-color:#eee;
 } 
 
 .header{
@@ -39,7 +39,7 @@
   align-items:center;
   justify-content: space-between;
   padding:2rem 9%;
-  background: #fff;
+  background:#fff;
   box-shadow:var(--box-shadow)
 }
 
@@ -273,10 +273,10 @@
   font-size:2rem;
   color:var(--black);
   margin-left:.2rem;
-  background: #eee;
+  background:cadetblue;
   text-align: center;
 }
 .footer .box-container .box .share a:hover{
   background: var(--green);
-  color: #fff;
+  color:darksalmon;
 }

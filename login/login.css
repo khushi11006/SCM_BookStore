@@ -75,7 +75,7 @@ border: .2rem solid black;
 margin-top:1rem;
 display:inline-block;
 padding:1rem 3rem;
-font-size:1.7rem;
+font-size:clamp(1.2rem, 2vw, 1.7rem); ;
 border-radius:.5rem;
 color:var(--black);
 cursor:pointer;
@@ -83,6 +83,11 @@ cursor:pointer;
 .btn:hover{
   background: var(--green);
   color:white;
+  transition: 0.3s ease-in-out;
+}
+
+.btn:active {
+  transform: scale(0.95); 
 }
 
 .header{
@@ -112,7 +117,7 @@ cursor:pointer;
 .header .navbar a
 {
   font-size:1.7rem;
-  margin:0 1rem;
+  margin:0 2rem;
   color:var(--black);
 }
 .header .navbar a:hover{

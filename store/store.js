@@ -33,11 +33,11 @@ const books = [
   },
   {
     "id": "5",
-    "name": "Twisted Lies",
-    "author": "Ana Huang",
+    "name": "When I am with you",
+    "author": "Durjoy Datta",
     "price": 880.00,
-    "summary": "A dark high school RH bully romance that contains triggers for sensitive readers.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSBMvf8URiv0b38L-63pQPMwzi7WX74CBVcSTjpy2iGIh5pX6AQSieoNQnSX8iThLGFDy7px1B9Ysaiej7WwvfUL0ksRna0TFa-kpwEADD7B48JB82xACo&usqp=CAE"
+    "summary": "Aishwarya, at twenty-eight years, would rather be a single mother than trust the 'normal' family structure. In her new start-up, she wants to revolutionize childcare for young woman professionals-this is her ultimate goal. Plus, she's in a hurry to do it all.",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCYRp9OPKTZ-rbOc5H60MjqMGm-N8CpkzVHjZbVTuBKntboCwflMruH7OPK7NVBJxkqaGM96-AOrL9BDxpP1v1GkU7tgUW6YPce55QqbtSMZjU3vzVByoc"
   },
   {
     "id": "6",
@@ -57,27 +57,27 @@ const books = [
   },
   {
     "id": "8",
-    "name": "A deadly education",
-    "author": " Naomi Novik's",
+    "name": "I to hade a Love Story",
+    "author": "Ravinder singh",
     "price": 400.00,
-    "summary": "A Deadly Education is set at Scholomance, a school for the magically gifted where failure means certain death (for real)—until one girl, El, begins to unlock its many secrets.",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTo_7lw706lPuG3J_OL0aihtskEpl2nDHG2W6JAA3FyoBuoWZbpdxmBB4GxHAEUKvx2w-oovZOBqrQRjh_G8yT_nccKhDvF8X9do6762gxdGcYBlSTaCd0Ig&usqp=CAE"
+    "summary": "The story revolves around the protagonist, Ravin, who is working in IT and is looking for a life partner. He signs up on a matrimonial website and meets a girl named Khushi. They start chatting and soon fall deeply in love, despite never having met in person.",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUXHJIJMxx3_Sb7yp5eV3TVZw7mwPeNX0lpYuwW4KNbtngfYwov0S9QY6s_GN3QwGBWIBfZJG7Jg29CKisdyYOQgI0cncuwMlPHmsWtP_LjttJ4iAUYTpEpw"
   },
   {
     "id": "9",
-    "name": "Your Fault",
-    "author": "Mercedes Ron",
+    "name": "The Power of Subconsious Mind",
+    "author": "Dr Joseph Murphy",
     "price": 599.0,
-    "summary":"This suspenseful YA series untangles the threads of love, trauma, and secrets, perfect for fans of Ugly Love and After. ",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUx_qYVH1tk31_tjaYZkSoSj2DVfBoz2BjhRewr06GurXd8ctUIll5Ph7j_XZFbAMUHhvnBW_Wa2D0DNe3V9KGIcddGKvwFBqmCWLbZrI&usqp=CAE"
+    "summary":"The Power of Your Subconscious Mind, by Joseph Murphy, is a self-help book that explores how the subconscious mind influences our lives and how we can harness its power for positive change ",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC32YWYfpvEMGJeLYoE61-wJYzVQy6AAx0JVERYjoLf79D-bvg0lCH-3Aq4JOjwD7vsjmdn-KyhvuqiaOgWBlqsYWOCDN4Eg"
   },
   {
     "id": "10",
-    "name": "Love or Obsession",
-    "author": "Hiah Mehta",
+    "name": "To good to be True",
+    "author": "Prajakta Koli",
     "price": 569.00,
-    "summary": "Damon Stanton, an angel in a devils body, young, flirty, bachelor, shining in his prime time of his company, yet lonely having no one to share his love and thoughts with.",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCA3leNhDs-N12cI-wdPu-r6WlF3kXIEXhl3UyDg57ftl7rpEJr6MrSk2SqNbtKpaGngJxpVKIxfINz3iMhczszGTdd0LcB1vln6Gqoyw&usqp=CAE"
+    "summary": "Too Good to Be True by Prajakta Koli tells the story of Avani, a bookstore employee who lives in a world of romance novels.",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtIiRqOzGeb7HYeO-JMnoSvBcxaaKP-bNucYzx95vC6k5SdBgn62wgbVqmhM57sPqk0tnaUXDtH-cLX8CIHiz1_v1qrkturYnIQm764oPeI7vr2bYjDrv4ZQ"
   },
   {
     "id": "11",
@@ -145,11 +145,11 @@ const books = [
   },
   {
     "id": "19",
-    "name": "A Murderous Plot",
-    "author": "Sue Mixin",
+    "name": "Being a Journey",
+    "author": "Pankaj Gupta",
     "price": 799.00,
-    "summary": "When an amnesiac man covered in blood mysteriously appears in the woods during her morning run, retired amateur sleuth, Jen, promises to stay away from the case. ",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTPUuZWrfJ7kfC5srgDuff3gYS2yVodKKCLrbyZRhUkXaiQoFc56SyWwZIQovOV-AF1AL66muOkmMR6HMc_SwpXB7K6Vi1HNr7Ylm0uq2I&usqp=CAE"
+    "summary": " Being: A Journey by Pankaj Gupta is a self-help book that guides readers on a path of self-discovery and personal growth. ",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdDTHiWbIll1TXeL6DcN-ahVguz9T7z-86JvTFvDXMHLrc2IzVAWHmCOfQ_Qb1O3HdqZrS98nJhYMNf5gZKt0EWYdacLSr"
   },
   {
     "id": "20",
