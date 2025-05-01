@@ -17,11 +17,11 @@ const books = [
   },
   {
     "id": "3",
-    "name": "I May Be Wrong",
-    "author": "Björn Natthiko Lindeblad",
+    "name": "You have Change",
+    "author": "Dr. Mark W.Baker",
     "price": 1800.00,
-    "summary": "I’ve often wondered what it’s like to get 'the call’ - the desire to drop everything and take up a spiritual vocation.",
-    "image_url": "https://m.media-amazon.com/images/I/71ATQkTtUrL._SY522_.jpg"
+    "summary": "He gives us his scientific research and insight but then he tells us stories—gripping stories of people who truly made lasting change against all odds. ",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREUz1TaCnRPWMOG6yOkUvqGJWbrycurdW6JXu3rOSP_JbBW09hSMkDR7jEXyNoLm9nMZqiuOQAvrFZgUGttyqDSrxryJWwltf-9sly5I7kuW5Hw93OzweR"
   },
   {
     "id": "4",
