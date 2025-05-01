@@ -82,14 +82,16 @@ section{
 }
 
 .btn{
-border: .2rem solid black;
-margin-top:1rem;
-display:inline-block;
-padding:1rem 3rem;
-font-size:clamp(1.2rem, 2vw, 1.7rem); ;
-border-radius:.5rem;
-color:var(--black);
-cursor:pointer;
+  border: .2rem solid black;
+  margin-top:1rem;
+  display:inline-block;
+  padding:1rem 3rem;
+  font-size:clamp(1.2rem, 2vw, 1.7rem); ;
+  border-radius:.5rem;
+  color:var(--black);
+  cursor:pointer;
+  background: linear-gradient(45deg, #4caf50, #8bc34a);
+  
 }
 .btn:hover{
   background: var(--green);
