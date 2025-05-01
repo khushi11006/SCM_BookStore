@@ -76,6 +76,11 @@ section{
   transition: transform 0.3s ease, background 0.3s ease;
 }
 
+.heading span:hover {
+  background: var(--light-green);
+  transform: scale(1.05);
+}
+
 .btn{
 border: .2rem solid black;
 margin-top:1rem;
