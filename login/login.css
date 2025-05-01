@@ -92,6 +92,7 @@ section{
   cursor:pointer;
   background: linear-gradient(45deg, #4caf50, #8bc34a);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
 }
 .btn:hover{
   background: var(--green);
