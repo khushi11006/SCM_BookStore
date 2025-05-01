@@ -101,14 +101,8 @@ section{
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }
 
-@keyframes buttonHover {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-
 .btn:active {
-  transform: scale(0.95); 
+  background-color: #333;
 }
 
 .header{
