@@ -72,6 +72,8 @@ section{
   font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
 }
 
 .btn{
