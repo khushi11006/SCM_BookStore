@@ -16,18 +16,15 @@
   text-decoration: none;
   transition: all .2s linear;
 }
-
 html{
   font-size:62.5%;
   overflow-x:hidden;
   scroll-behavior: smooth;
   scroll-padding-top: 7rem;
 }
-
 body{
   background: #eee;
 }
-
 section{
   padding:2rem 9%;
 }
