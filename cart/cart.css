@@ -60,10 +60,10 @@
 
 .header .icons div{
   border:0px solid;
-  height:4.5rem;
-  width:4.5rem;
-  line-height:4.5rem;
-  border-radius:.5rem;
+  height:4.7rem;
+  width:4.7rem;
+  line-height:4.7rem;
+  border-radius:.7rem;
   background: #333;
   color:var(--black);
   font-size:3rem;
@@ -80,8 +80,8 @@
 .container {
   display: flex;
   flex-direction: column;
-  gap: 18px;
-  padding: 48px 90px;
+  gap: 19px;
+  padding: 46px 92px;
   margin-top: 70px;
 }
 
@@ -274,10 +274,10 @@
   font-size:2rem;
   color:var(--black);
   margin-left:.2rem;
-  background: #eee;
+  background: #fff;
   text-align: center;
 }
 .footer .box-container .box .share a:hover{
   background: var(--green);
-  color: #fff;
+  color: #eee;
 }
