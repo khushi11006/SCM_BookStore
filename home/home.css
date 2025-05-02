@@ -52,7 +52,6 @@ section{
   color:white;
   cursor:pointer;
 }
-
 .btn:hover{
   background: var(--green);
   color:white;
