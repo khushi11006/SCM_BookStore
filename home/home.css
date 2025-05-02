@@ -28,7 +28,6 @@ body{
 section{
   padding:2rem 9%;
 }
-
 .heading{
   text-align:center;
   padding:2rem 0;
@@ -36,7 +35,6 @@ section{
   font-size:3.5rem;
   color:var(--black);
 }
-
 .heading span{
   background: var(--green);
   color:#fff;
