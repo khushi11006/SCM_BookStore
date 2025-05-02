@@ -34,7 +34,7 @@
   top:0;
   left:0;
   right:0;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 3px solid #ccc;
   z-index:1000;
   display:flex;
   align-items:center;
